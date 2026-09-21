@@ -1,160 +1,161 @@
-<!-- ===================== BANNER ===================== -->
-
+<!-- ═══════════════════════ HERO ═══════════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Bhavna%20Sahu&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Engineering%20Student%20%7C%20Developer%20%7C%20IoT%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Bhavna+Sahu+%F0%9F%91%8B;Engineering+Student+%F0%9F%8E%93;Aspiring+Full-Stack+Developer+%F0%9F%92%BB;IoT+%26+ESP32+Enthusiast+%F0%9F%94%8C;Building+Projects+%7C+Learning+%7C+Growing+%F0%9F%9A%80" alt="Typing SVG" />
-
-<br>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f9d58,50:0891b2,100:2563eb&height=260&section=header&text=Bhavna%20Sahu&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=Engineering%20Student%20%C2%B7%20Developer%20%C2%B7%20Future%20Full-Stack%20Engineer&descSize=18&descAlignY=62&animation=fadeIn" width="100%" alt="Bhavna Sahu banner"/>
 
 <a href="https://github.com/sahubhavna012-code">
-<img src="https://komarev.com/ghpvc/?username=sahubhavna012-code&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=760&height=45&lines=Hi%2C+I'm+Bhavna+%F0%9F%91%8B;From+C%2FC%2B%2B+to+Full-Stack+%F0%9F%9A%80;Turning+ideas+into+working+code+%F0%9F%92%BB;Learn.+Build.+Break.+Fix.+Repeat." alt="Typing animation"/>
 </a>
 
-<a href="https://github.com/sahubhavna012-code?tab=followers">
-<img src="https://img.shields.io/github/followers/sahubhavna012-code?label=Followers&style=for-the-badge&color=0e75b6" alt="GitHub Followers"/>
-</a>
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=sahubhavna012-code&label=Profile%20Views&color=0f9d58&style=for-the-badge" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/sahubhavna012-code?label=Followers&style=for-the-badge&logo=github&color=0891b2" alt="Followers"/>
+<img src="https://img.shields.io/github/stars/sahubhavna012-code?label=Stars&style=for-the-badge&logo=github&color=2563eb" alt="Stars"/>
+
+<br/><br/>
+
+<a href="#-about-me">About</a> ·
+<a href="#%EF%B8%8F-tech-stack">Stack</a> ·
+<a href="#-featured-projects">Projects</a> ·
+<a href="#-github-analytics">Stats</a> ·
+<a href="#-my-developer-journey">Journey</a> ·
+<a href="#-lets-connect">Connect</a>
 
 </div>
 
----
+<br/>
 
-# 👩‍💻 About Me
+<!-- ═══════════════════════ ABOUT ═══════════════════════ -->
+## 👩‍💻 About Me
 
-I'm an **Engineering Student** with a growing interest in **software development, web technologies, IoT, and real-world problem solving**.
+<table>
+<tr>
+<td width="55%" valign="top">
 
-I enjoy learning by building projects and experimenting with different technologies. My current focus is developing stronger foundations in programming and gradually moving toward **full-stack development**.
+```python
+class Bhavna:
+    role    = "Engineering Student"
+    focus   = ["C/C++", "Python", "Web Dev"]
+    learning = ["JavaScript", "React / Next.js",
+                "Backend", "Databases"]
+    goal    = "Full-Stack Developer 🚀"
 
-### 🔭 Currently Working On
+    def every_day(self):
+        while True:
+            self.learn()
+            self.build()
+            self.debug()
+```
 
-* 🌱 Smart Farming & IoT projects
-* 🔌 ESP32 and sensor-based systems
-* 🌐 Web dashboards and frontend development
-* 📊 Data visualization
-* 🔗 APIs and backend integration
+</td>
+<td width="45%" valign="top">
 
-### 🌱 Currently Learning
+I learn best by **building things**. I enjoy experimenting with new technologies, breaking them, and figuring out how to fix them.
 
-* JavaScript
-* React / Next.js
-* Backend development
-* REST APIs
-* Databases
-* Git & GitHub
-* IoT communication
+Right now I'm strengthening my programming foundations and moving step by step toward **full-stack development**, one project at a time.
 
-### 🎯 Goals
+</td>
+</tr>
+</table>
 
-* Become a **Full-Stack Developer**
-* Build meaningful real-world projects
-* Improve problem-solving and DSA
-* Explore AI + IoT applications
-* Contribute to open-source projects
+<div align="center">
 
----
+| 🔭 Building | 🌱 Learning | 🎯 Aiming For |
+| :--- | :--- | :--- |
+| ESP32 & sensor-based projects | JavaScript · React / Next.js | Full-Stack Developer |
+| Web dashboards & frontend | Backend, REST APIs, Databases | Stronger DSA & problem-solving |
+| Data visualization | Git & GitHub · Node.js · TypeScript | AI-powered applications |
+| APIs & backend integration | Building in public | Open-source contributions |
 
-# 🛠️ Tech Stack
+</div>
 
-### 👩‍💻 Languages
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f9d58,50:0891b2,100:2563eb&height=3" width="100%" alt="divider"/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,python" />
-</p>
-
-### 🌐 Web Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs" />
-</p>
-
-### 🔌 IoT & Hardware
-
-<p>
-<img src="https://skillicons.dev/icons?i=arduino" />
-</p>
-
-`ESP32` • `Sensors` • `IoT` • `Embedded Systems`
-
-### 🗄️ Backend & Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,typescript,postgres,supabase" />
-</p>
-
-### 🧰 Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,canva" />
-</p>
-
----
-
-# 🚀 Featured Projects
+<!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
+## 🛠️ Tech Stack
 
 <div align="center">
 
 <table>
 <tr>
-<td width="50%">
+<td align="center" width="190"><b>👩‍💻 Languages</b></td>
+<td><img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts&theme=dark" alt="Languages"/></td>
+</tr>
+<tr>
+<td align="center"><b>🌐 Frontend</b></td>
+<td><img src="https://skillicons.dev/icons?i=html,css,react,nextjs&theme=dark" alt="Frontend"/></td>
+</tr>
+<tr>
+<td align="center"><b>⚙️ Backend & DB</b></td>
+<td><img src="https://skillicons.dev/icons?i=nodejs,postgres,supabase&theme=dark" alt="Backend"/></td>
+</tr>
+<tr>
+<td align="center"><b>🔌 Hardware</b></td>
+<td>
+  <img src="https://skillicons.dev/icons?i=arduino&theme=dark" alt="Arduino"/>
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32"/>
+</td>
+</tr>
+<tr>
+<td align="center"><b>🧰 Tools</b></td>
+<td><img src="https://skillicons.dev/icons?i=git,github,vscode,canva&theme=dark" alt="Tools"/></td>
+</tr>
+</table>
 
-### 🌱 Smart Farming System
+</div>
 
-An IoT-based smart farming platform designed to monitor agricultural conditions and support intelligent irrigation.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f9d58,50:0891b2,100:2563eb&height=3" width="100%" alt="divider"/>
 
-**Tech:**
-`ESP32` `IoT` `Node.js` `Next.js` `PostgreSQL`
+<!-- ═══════════════════════ PROJECTS ═══════════════════════ -->
+## 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤟 Sign Language → Speech Glove
+
+An ESP32-based glove that uses motion and flex sensors to recognize hand gestures and convert them into speech.
+
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white"/>
+<img src="https://img.shields.io/badge/MPU6050-0891b2?style=flat-square"/>
+<img src="https://img.shields.io/badge/Flex%20Sensors-2563eb?style=flat-square"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 
 <a href="https://github.com/sahubhavna012-code">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/View%20Project-0891b2?style=for-the-badge&logo=github"/>
 </a>
 
 </td>
+<td width="50%" valign="top">
 
-<td width="50%">
+### 🌐 Web Development Projects
 
-### 🤟 Sign Language → Speech
+A collection of frontend experiments built while learning HTML, CSS, JavaScript and React.
 
-An ESP32-based glove project that uses sensors and motion detection to recognize hand gestures and convert them into speech.
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 
-**Tech:**
-`ESP32` `MPU6050` `Flex Sensors` `Python`
-
-<a href="https://github.com/sahubhavna012-code">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" />
+<a href="https://github.com/sahubhavna012-code?tab=repositories">
+<img src="https://img.shields.io/badge/View%20Repositories-2563eb?style=for-the-badge&logo=github"/>
 </a>
 
 </td>
 </tr>
-
 <tr>
-<td width="50%">
-
-### 🌐 Web Development Projects
-
-A collection of frontend experiments and web-development projects built while learning HTML, CSS, JavaScript and modern frontend technologies.
-
-**Tech:**
-`HTML` `CSS` `JavaScript` `React`
-
-<a href="https://github.com/sahubhavna012-code?tab=repositories">
-<img src="https://img.shields.io/badge/View%20Repositories-181717?style=for-the-badge&logo=github" />
-</a>
-
-</td>
-
-<td width="50%">
+<td colspan="2" align="center">
 
 ### 🔧 More Projects Coming Soon
 
-I'm continuously building, experimenting and adding new projects to my GitHub.
-
-**Learning → Building → Improving**
+Always experimenting and adding new things to my GitHub. &nbsp;**Learning → Building → Improving**
 
 <a href="https://github.com/sahubhavna012-code?tab=repositories">
-<img src="https://img.shields.io/badge/Explore%20GitHub-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/Explore%20My%20GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </td>
@@ -163,100 +164,81 @@ I'm continuously building, experimenting and adding new projects to my GitHub.
 
 </div>
 
----
+<!-- Tip: once you have repo names, swap the "View Project" links above for the real repo URLs,
+     or use auto-updating pin cards, e.g.:
+<a href="https://github.com/sahubhavna012-code/REPO-NAME">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sahubhavna012-code&repo=REPO-NAME&bg_color=0d1117&title_color=10b981&icon_color=22d3ee&text_color=c9d1d9&hide_border=true"/>
+</a>
+-->
 
-# 📊 GitHub Analytics
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f9d58,50:0891b2,100:2563eb&height=3" width="100%" alt="divider"/>
+
+<!-- ═══════════════════════ STATS ═══════════════════════ -->
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sahubhavna012-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=sahubhavna012-code&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=10b981&icon_color=22d3ee&text_color=c9d1d9&ring_color=10b981" alt="GitHub stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahubhavna012-code&layout=compact&hide_border=true&bg_color=0d1117&title_color=10b981&text_color=c9d1d9" alt="Top languages"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahubhavna012-code&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=sahubhavna012-code&hide_border=true&background=0D1117&ring=10B981&fire=22D3EE&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=10B981&sideLabels=22D3EE&dates=8B949E" alt="GitHub streak"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=sahubhavna012-code&theme=onedark&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" alt="GitHub trophies"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sahubhavna012-code&bg_color=0d1117&color=10b981&line=22d3ee&point=ffffff&area=true&area_color=10b981&hide_border=true" width="95%" alt="Contribution graph"/>
 
 </div>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f9d58,50:0891b2,100:2563eb&height=3" width="100%" alt="divider"/>
+
+<!-- ═══════════════════════ SNAKE ═══════════════════════ -->
+## 🐍 Contribution Snake
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=sahubhavna012-code&theme=tokyonight&hide_border=true" />
-
+  <img src="https://raw.githubusercontent.com/sahubhavna012-code/sahubhavna012-code/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake"/>
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f9d58,50:0891b2,100:2563eb&height=3" width="100%" alt="divider"/>
 
-# 📈 GitHub Contribution Graph
+<!-- ═══════════════════════ JOURNEY ═══════════════════════ -->
+## 🧠 My Developer Journey
 
-<div align="center">
+```mermaid
+%%{init: {'theme':'base','themeVariables':{'fontFamily':'Fira Code, monospace','lineColor':'#22d3ee','primaryTextColor':'#ffffff'}}}%%
+flowchart LR
+    A["💻 Programming<br/>C · C++ · Python"] --> B["🌐 Web Basics<br/>HTML · CSS · JS"]
+    B --> C["⚛️ Frontend<br/>React · Next.js"]
+    C --> D["⚙️ Backend & APIs<br/>Node.js · Databases"]
+    D --> E["🚀 Full-Stack<br/>Developer"]
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sahubhavna012-code&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="GitHub Contribution Graph"/>
+    style A fill:#0f9d58,stroke:#0f9d58,color:#fff
+    style B fill:#0e9f8a,stroke:#0e9f8a,color:#fff
+    style C fill:#0891b2,stroke:#0891b2,color:#fff
+    style D fill:#1d75d8,stroke:#1d75d8,color:#fff
+    style E fill:#2563eb,stroke:#22d3ee,stroke-width:3px,color:#fff
+```
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f9d58,50:0891b2,100:2563eb&height=3" width="100%" alt="divider"/>
 
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/sahubhavna012-code/sahubhavna012-code/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
-
-</div>
-
-> **Note:** The snake requires a GitHub Actions workflow in your profile repository. I'll give you that workflow below.
-
----
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/sahubhavna012-code">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/bhavna-sahu-98a73637b/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/justbhavna_126/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://pin.it/3QNSfjbbR">
-<img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white"/>
-</a>
-
-<a href="mailto:sahubhavna012@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-# 💡 Developer Philosophy
+<!-- ═══════════════════════ CONNECT ═══════════════════════ -->
+## 🌐 Let's Connect
 
 <div align="center">
 
-### "Learn. Build. Break. Fix. Repeat. 🚀"
+<a href="https://github.com/sahubhavna012-code"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/bhavna-sahu-98a73637b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.instagram.com/justbhavna_126/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://pin.it/3QNSfjbbR"><img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest"/></a>
+<a href="mailto:sahubhavna012@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
-**Every project is an opportunity to learn something new.**
+<br/><br/>
 
-</div>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Learn.%20Build.%20Break.%20Fix.%20Repeat.&author=Bhavna%20Sahu" alt="Quote"/>
 
----
+<br/>
 
-<div align="center">
+**Every project is an opportunity to learn something new.** ⭐ Thanks for stopping by!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
-
-### ⭐ Thanks for visiting my profile!
-
-**If you find something interesting, feel free to explore my repositories.**
-
-<a href="https://github.com/sahubhavna012-code?tab=repositories">
-<img src="https://img.shields.io/badge/Explore%20My%20Repositories-2F81F7?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f9d58,50:0891b2,100:2563eb&height=120&section=footer" width="100%" alt="footer"/>
 
 </div>
