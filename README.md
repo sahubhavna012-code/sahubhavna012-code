@@ -1,19 +1,19 @@
 <!-- ═══════════════════════ HERO ═══════════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f9d58,50:0891b2,100:2563eb&height=260&section=header&text=Bhavna%20Sahu&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=Engineering%20Student%20%C2%B7%20Developer%20%C2%B7%20Future%20Full-Stack%20Engineer&descSize=18&descAlignY=62&animation=fadeIn" width="100%" alt="Bhavna Sahu banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:181377,50:3c1bc0,100:62538d&height=230&section=header&text=Bhavna%20Sahu&fontSize=60&fontColor=ffffff&fontAlignY=36&desc=Engineering%20Student%20%C2%B7%20Developer%20%C2%B7%20Future%20Full-Stack%20Engineer&descSize=18&descAlignY=56&animation=twinkling" width="100%" alt="Bhavna Sahu banner"/>
 
 <a href="https://github.com/sahubhavna012-code">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=760&height=45&lines=Hi%2C+I'm+Bhavna+%F0%9F%91%8B;From+C%2FC%2B%2B+to+Full-Stack+%F0%9F%9A%80;Turning+ideas+into+working+code+%F0%9F%92%BB;Learn.+Build.+Break.+Fix.+Repeat." alt="Typing animation"/>
 </a>
 
-<br/><br/>
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=sahubhavna012-code&label=Profile%20Views&color=0f9d58&style=for-the-badge" alt="Profile views"/>
 <img src="https://img.shields.io/github/followers/sahubhavna012-code?label=Followers&style=for-the-badge&logo=github&color=0891b2" alt="Followers"/>
 <img src="https://img.shields.io/github/stars/sahubhavna012-code?label=Stars&style=for-the-badge&logo=github&color=2563eb" alt="Stars"/>
 
-<br/><br/>
+<br/>
 
 <a href="#-about-me">About</a> ·
 <a href="#%EF%B8%8F-tech-stack">Stack</a> ·
@@ -29,48 +29,17 @@
 <!-- ═══════════════════════ ABOUT ═══════════════════════ -->
 ## 👩‍💻 About Me
 
-<table>
-<tr>
-<td width="55%" valign="top">
-
-```python
-class Bhavna:
-    role    = "Engineering Student"
-    focus   = ["C/C++", "Python", "Web Dev"]
-    learning = ["JavaScript", "React / Next.js",
-                "Backend", "Databases"]
-    goal    = "Full-Stack Developer 🚀"
-
-    def every_day(self):
-        while True:
-            self.learn()
-            self.build()
-            self.debug()
-```
-
-</td>
-<td width="45%" valign="top">
-
-I learn best by **building things**. I enjoy experimenting with new technologies, breaking them, and figuring out how to fix them.
-
-Right now I'm strengthening my programming foundations and moving step by step toward **full-stack development**, one project at a time.
-
-</td>
-</tr>
-</table>
+I'm an **engineering student** who learns by building. I'm strengthening my foundations in **C/C++ and Python** and moving step by step toward **full-stack development**.
 
 <div align="center">
 
-| 🔭 Building | 🌱 Learning | 🎯 Aiming For |
-| :--- | :--- | :--- |
-| ESP32 & sensor-based projects | JavaScript · React / Next.js | Full-Stack Developer |
-| Web dashboards & frontend | Backend, REST APIs, Databases | Stronger DSA & problem-solving |
-| Data visualization | Git & GitHub · Node.js · TypeScript | AI-powered applications |
-| APIs & backend integration | Building in public | Open-source contributions |
+| 🔭 Building | 🌱 Learning | 🎯 Goal |
+| :---: | :---: | :---: |
+| Web dashboards & ESP32 projects | React · Next.js · Node.js · Databases | Full-Stack Developer 🚀 |
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f9d58,50:0891b2,100:2563eb&height=3" width="100%" alt="divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:181377,50:3c1bc0,100:62538d&height=3" width="100%" alt="divider"/>
 
 <!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
 ## 🛠️ Tech Stack
@@ -105,7 +74,7 @@ Right now I'm strengthening my programming foundations and moving step by step t
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f9d58,50:0891b2,100:2563eb&height=3" width="100%" alt="divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:181377,50:3c1bc0,100:62538d&height=3" width="100%" alt="divider"/>
 
 <!-- ═══════════════════════ PROJECTS ═══════════════════════ -->
 ## 🚀 Featured Projects
@@ -164,14 +133,7 @@ Always experimenting and adding new things to my GitHub. &nbsp;**Learning → Bu
 
 </div>
 
-<!-- Tip: once you have repo names, swap the "View Project" links above for the real repo URLs,
-     or use auto-updating pin cards, e.g.:
-<a href="https://github.com/sahubhavna012-code/REPO-NAME">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sahubhavna012-code&repo=REPO-NAME&bg_color=0d1117&title_color=10b981&icon_color=22d3ee&text_color=c9d1d9&hide_border=true"/>
-</a>
--->
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f9d58,50:0891b2,100:2563eb&height=3" width="100%" alt="divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:181377,50:3c1bc0,100:62538d&height=3" width="100%" alt="divider"/>
 
 <!-- ═══════════════════════ STATS ═══════════════════════ -->
 ## 📊 GitHub Analytics
@@ -189,7 +151,7 @@ Always experimenting and adding new things to my GitHub. &nbsp;**Learning → Bu
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f9d58,50:0891b2,100:2563eb&height=3" width="100%" alt="divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:181377,50:3c1bc0,100:62538d&height=3" width="100%" alt="divider"/>
 
 <!-- ═══════════════════════ SNAKE ═══════════════════════ -->
 ## 🐍 Contribution Snake
@@ -198,7 +160,7 @@ Always experimenting and adding new things to my GitHub. &nbsp;**Learning → Bu
   <img src="https://raw.githubusercontent.com/sahubhavna012-code/sahubhavna012-code/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake"/>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f9d58,50:0891b2,100:2563eb&height=3" width="100%" alt="divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:181377,50:3c1bc0,100:62538d&height=3" width="100%" alt="divider"/>
 
 <!-- ═══════════════════════ JOURNEY ═══════════════════════ -->
 ## 🧠 My Developer Journey
@@ -218,7 +180,7 @@ flowchart LR
     style E fill:#2563eb,stroke:#22d3ee,stroke-width:3px,color:#fff
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f9d58,50:0891b2,100:2563eb&height=3" width="100%" alt="divider"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=rect&color=0:181377,50:3c1bc0,100:62538d" width="100%" alt="divider"/> -->
 
 <!-- ═══════════════════════ CONNECT ═══════════════════════ -->
 ## 🌐 Let's Connect
@@ -231,14 +193,10 @@ flowchart LR
 <a href="https://pin.it/3QNSfjbbR"><img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest"/></a>
 <a href="mailto:sahubhavna012@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
-<br/><br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Learn.%20Build.%20Break.%20Fix.%20Repeat.&author=Bhavna%20Sahu" alt="Quote"/>
-
 <br/>
 
 **Every project is an opportunity to learn something new.** ⭐ Thanks for stopping by!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f9d58,50:0891b2,100:2563eb&height=120&section=footer" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:181377,50:3c1bc0,100:62538d&height=120&section=footer" width="100%" alt="footer"/>
 
 </div>
