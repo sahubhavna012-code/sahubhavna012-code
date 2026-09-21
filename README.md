@@ -9,7 +9,3 @@
 ![](https://streak-stats.demolab.com/?user=Bhavna Sahu&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Bhavna Sahu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
