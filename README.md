@@ -49,26 +49,26 @@ I'm an **engineering student** who learns by building. I'm strengthening my foun
 <table>
 <tr>
 <td align="center" width="190"><b>👩‍💻 Languages</b></td>
-<td><img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts&theme=dark" alt="Languages"/></td>
+<td><img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts&theme=dark" height="30" alt="Languages"/></td>
 </tr>
 <tr>
 <td align="center"><b>🌐 Frontend</b></td>
-<td><img src="https://skillicons.dev/icons?i=html,css,react,nextjs&theme=dark" alt="Frontend"/></td>
+<td><img src="https://skillicons.dev/icons?i=html,css,react,nextjs&theme=dark" height="30" alt="Frontend"/></td>
 </tr>
 <tr>
 <td align="center"><b>⚙️ Backend & DB</b></td>
-<td><img src="https://skillicons.dev/icons?i=nodejs,postgres,supabase&theme=dark" alt="Backend"/></td>
+<td><img src="https://skillicons.dev/icons?i=nodejs,postgres,supabase&theme=dark" height="30" alt="Backend"/></td>
 </tr>
 <tr>
 <td align="center"><b>🔌 Hardware</b></td>
 <td>
   <img src="https://skillicons.dev/icons?i=arduino&theme=dark" alt="Arduino"/>
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32"/>
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" height="30" alt="ESP32"/>
 </td>
 </tr>
 <tr>
 <td align="center"><b>🧰 Tools</b></td>
-<td><img src="https://skillicons.dev/icons?i=git,github,vscode,canva&theme=dark" alt="Tools"/></td>
+<td><img src="https://skillicons.dev/icons?i=git,github,vscode,canva&theme=dark" height="30" alt="Tools"/></td>
 </tr>
 </table>
 
