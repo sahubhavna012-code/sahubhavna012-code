@@ -62,7 +62,7 @@ I'm an **engineering student** who learns by building. I'm strengthening my foun
 <tr>
 <td align="center"><b>🔌 Hardware</b></td>
 <td>
-  <img src="https://skillicons.dev/icons?i=arduino&theme=dark" alt="Arduino"/>
+  <img src="https://skillicons.dev/icons?i=arduino&theme=dark" height="30"  alt="Arduino"/>
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" height="30" alt="ESP32"/>
 </td>
 </tr>
