@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi, I'm Bhavna Sahu 👋
+# Hi there, I'm Bhavna Sahu 👋
 
-### **IT Engineering Student | C/C++ | DSA | Web Development**
+### 🎓 **IT Engineering Student | C/C++ | DSA | Web Development**
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bhavna-sahu-98a73637b/">
@@ -24,57 +24,75 @@
 
 ### 💡 About Me
 
-I am an Information Technology engineering student focused on building strong programming fundamentals and solving computational logic problems. My daily work revolves around C and C++ programming, object-oriented design, memory management via pointers, and Data Structures & Algorithms, alongside exploring web development standards.
+- 🎓 **Education**: Information Technology Engineering Student
+- 💻 **Core Focus**: C & C++ Programming, Object-Oriented Design, Pointers & Memory Handling
+- ⚡ **DSA Practice**: Consistently practicing Data Structures & Algorithms and solving logic problems
+- 🌐 **Web Development**: Building responsive layouts using HTML5/CSS3 while learning modern JavaScript
 
 ---
 
-### ⚙️ Technical Stack
+### ⚙️ Tech Stack
 
 #### **Core & Practiced**
-`C` &nbsp;|&nbsp; `C++` &nbsp;|&nbsp; `Object-Oriented Programming (OOP)` &nbsp;|&nbsp; `HTML5` &nbsp;|&nbsp; `CSS3` &nbsp;|&nbsp; `Git` &nbsp;|&nbsp; `GitHub`
+<p align="left">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</p>
 
 #### **Currently Learning**
-`Python` &nbsp;|&nbsp; `JavaScript` &nbsp;|&nbsp; `Data Structures & Algorithms (DSA)`
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/DSA-Practice-007ACC?style=for-the-badge" alt="DSA"/>
+</p>
 
 #### **Exploring**
-`React` &nbsp;|&nbsp; `Node.js`
+<p align="left">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+</p>
 
 ---
 
-### 🎯 Currently Working On
+### 📊 GitHub Overview
 
-- 🔹 **Data Structures & Algorithms**: Consistently practicing array manipulation, two-pointer logic, and linear data structures in C and C++.
-- 🔹 **C++ & Object-Oriented Design**: Implementing class hierarchies, constructors/destructors, function & operator overloading, and friend functions.
-- 🔹 **C Systems Logic**: Building matrix arithmetic, logic algorithms, and stack operations.
-- 🔹 **Web Development Fundamentals**: Structuring semantic web layouts with HTML5/CSS3 while learning modern JavaScript.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sahubhavna012-code&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" height="150"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahubhavna012-code&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="150"/>
+</div>
 
 ---
 
-### 📌 Featured Work
+### 📌 Featured Repositories
 
-#### 01. [cpp-practice](https://github.com/sahubhavna012-code/cpp-practice)
-*Primary C++ & OOP learning repository tracking fundamental control flow, pointer mechanics, class design, polymorphism, and stack implementation.*
+#### 01. 🚀 [cpp-practice](https://github.com/sahubhavna012-code/cpp-practice)
+> *C++ & OOP learning repository tracking fundamental control flow, pointer mechanics, class design, polymorphism, and stack data structures.*  
 > `C++` `OOP` `Pointers` `Polymorphism` `Stack`  
 👉 **[View Repository →](https://github.com/sahubhavna012-code/cpp-practice)**
 
 <br/>
 
-#### 02. [C-program](https://github.com/sahubhavna012-code/C-program)
-*Structured C programming repository covering foundational decision logic, number theory algorithms, 2D matrix arithmetic, and stack data structures.*
+#### 02. 🛠️ [C-program](https://github.com/sahubhavna012-code/C-program)
+> *C programming repository covering foundational decision logic, number theory algorithms, 2D matrix arithmetic, and stack data structures.*  
 > `C` `Matrix-Math` `Algorithms` `Logic-Building` `Stack`  
 👉 **[View Repository →](https://github.com/sahubhavna012-code/C-program)**
 
 <br/>
 
-#### 03. [DSA-Questions](https://github.com/sahubhavna012-code/DSA-Questions)
-*Active problem-solving repository tracking LeetCode solutions in C and C++, focusing on arrays, two-pointer methods, and mathematical logic.*
+#### 03. 🧠 [DSA-Questions](https://github.com/sahubhavna012-code/DSA-Questions)
+> *Active problem-solving repository tracking LeetCode solutions in C and C++, focusing on arrays, two-pointer methods, and mathematical logic.*  
 > `LeetCode` `C` `C++` `DSA` `Problem-Solving`  
 👉 **[View Repository →](https://github.com/sahubhavna012-code/DSA-Questions)**
 
 <br/>
 
-#### 04. [html](https://github.com/sahubhavna012-code/html)
-*Web development foundation repository containing semantic HTML5 document structures, form elements, nested tables, iframe embeds, and a structured resume layout.*
+#### 04. 🌐 [html](https://github.com/sahubhavna012-code/html)
+> *Web development foundation repository containing semantic HTML5 document structures, form elements, nested tables, iframe embeds, and a structured resume layout.*  
 > `HTML5` `Web-Development` `Semantic-Markup` `Forms` `Tables`  
 👉 **[View Repository →](https://github.com/sahubhavna012-code/html)**
 
@@ -82,7 +100,7 @@ I am an Information Technology engineering student focused on building strong pr
 
 ### 📫 Contact & Connect
 
-- 💼 **LinkedIn**: [bhavna-sahu-98a73637b](https://www.linkedin.com/in/bhavna-sahu-98a73637b/)
+- 💼 **LinkedIn**: [Bhavna Sahu](https://www.linkedin.com/in/bhavna-sahu-98a73637b/)
 - 📧 **Email**: [sahubhavna012@gmail.com](mailto:sahubhavna012@gmail.com)
 - 🐙 **GitHub**: [@sahubhavna012-code](https://github.com/sahubhavna012-code)
 
@@ -90,6 +108,6 @@ I am an Information Technology engineering student focused on building strong pr
 
 <div align="center">
 
-*Building strong software fundamentals through disciplined practice.*
+*Building strong software engineering fundamentals through disciplined practice.*
 
 </div>
