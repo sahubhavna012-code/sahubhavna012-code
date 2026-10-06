@@ -3,7 +3,7 @@
 # Bhavna Sahu
 
 ### **Information Technology Engineering Student**
-`C++ • C • HTML5 • CSS3 • Git • GitHub`  
+`C++ • C • HTML5 • CSS3 • JavaScript • Git • GitHub`  
 *Currently learning Data Structures & Algorithms*
 
 📍 **Raipur, Chhattisgarh, India**
@@ -33,7 +33,7 @@
 - 🎓 **Education**: Information Technology Engineering Student
 - 💻 **Core Focus**: C & C++ Programming, Object-Oriented Design, Pointers & Memory Handling
 - ⚡ **DSA Practice**: Consistently practicing Data Structures & Algorithms and solving logic problems
-- 🌐 **Web Development**: Building responsive layouts using HTML5/CSS3 while learning modern JavaScript
+- 🌐 **Web Development**: Building web applications using HTML5, CSS3 styling, and JavaScript logic
 
 ---
 
@@ -51,8 +51,8 @@
 
 #### **Currently Learning**
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/DSA-Practice-007ACC?style=for-the-badge" alt="DSA"/>
 </p>
 
@@ -83,24 +83,24 @@
 
 <br/>
 
-#### 02. 🛠️ [C-program](https://github.com/sahubhavna012-code/C-program)
+#### 02. 🌐 [Web-application-and-development](https://github.com/sahubhavna012-code/Web-application-and-development)
+> *Web development repository containing HTML5 semantic document layouts, CSS3 styling (Box Model, stylesheets, website templates), and JavaScript logic.*  
+> `HTML5` `CSS3` `JavaScript` `Web-Development` `Frontend`  
+👉 **[View Repository →](https://github.com/sahubhavna012-code/Web-application-and-development)**
+
+<br/>
+
+#### 03. 🛠️ [C-program](https://github.com/sahubhavna012-code/C-program)
 > *C programming repository covering foundational decision logic, number theory algorithms, 2D matrix arithmetic, and stack data structures.*  
 > `C` `Matrix-Math` `Algorithms` `Logic-Building` `Stack`  
 👉 **[View Repository →](https://github.com/sahubhavna012-code/C-program)**
 
 <br/>
 
-#### 03. 🧠 [DSA-Questions](https://github.com/sahubhavna012-code/DSA-Questions)
+#### 04. 🧠 [DSA-Questions](https://github.com/sahubhavna012-code/DSA-Questions)
 > *Active problem-solving repository tracking LeetCode solutions in C and C++, focusing on arrays, two-pointer methods, and mathematical logic.*  
 > `LeetCode` `C` `C++` `DSA` `Problem-Solving`  
 👉 **[View Repository →](https://github.com/sahubhavna012-code/DSA-Questions)**
-
-<br/>
-
-#### 04. 🌐 [html](https://github.com/sahubhavna012-code/html)
-> *Web development foundation repository containing semantic HTML5 document structures, form elements, nested tables, iframe embeds, and a structured resume layout.*  
-> `HTML5` `Web-Development` `Semantic-Markup` `Forms` `Tables`  
-👉 **[View Repository →](https://github.com/sahubhavna012-code/html)**
 
 ---
 
