@@ -1,8 +1,14 @@
 <div align="center">
 
-# Hi there, I'm Bhavna Sahu 👋
+# Bhavna Sahu
 
-### 🎓 **IT Engineering Student | C/C++ | DSA | Web Development**
+### **Information Technology Engineering Student**
+`C++ • C • HTML5 • CSS3 • Git • GitHub`  
+*Currently learning Data Structures & Algorithms*
+
+📍 **Raipur, Chhattisgarh, India**
+
+<br/>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bhavna-sahu-98a73637b/">
@@ -31,7 +37,7 @@
 
 ---
 
-### ⚙️ Tech Stack
+### ⚙️ Technical Stack
 
 #### **Core & Practiced**
 <p align="left">
@@ -100,6 +106,7 @@
 
 ### 📫 Contact & Connect
 
+- 📍 **Location**: Raipur, Chhattisgarh, India
 - 💼 **LinkedIn**: [Bhavna Sahu](https://www.linkedin.com/in/bhavna-sahu-98a73637b/)
 - 📧 **Email**: [sahubhavna012@gmail.com](mailto:sahubhavna012@gmail.com)
 - 🐙 **GitHub**: [@sahubhavna012-code](https://github.com/sahubhavna012-code)
