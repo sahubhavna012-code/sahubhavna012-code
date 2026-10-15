@@ -31,9 +31,9 @@
 ### 💡 About Me
 
 - 🎓 **Education**: Information Technology Engineering Student
-- 💻 **Core Focus**: C & C++ Programming, Object-Oriented Design, Pointers & Memory Handling
-- ⚡ **DSA Practice**: Consistently practicing Data Structures & Algorithms and solving logic problems
-- 🌐 **Web Development**: Building web applications using HTML5, CSS3 styling, and JavaScript logic
+- 💻 **Core Focus**: C & C++ Programming, Object-Oriented Design, File Handling, Pointers & Memory
+- ⚡ **DSA Practice**: Solving LeetCode & GeeksforGeeks problems — Arrays, Stacks, Queues, Trees, Linked Lists
+- 🌐 **Web Development**: Building web applications with HTML5 semantic markup, CSS3 layouts, and JavaScript logic
 
 ---
 
@@ -64,6 +64,15 @@
 
 ---
 
+### 🎯 Currently Working On
+
+- 🔹 **Data Structures**: Implementing Stacks, Queues, Binary Trees, and Linked Lists in C/C++
+- 🔹 **LeetCode & GFG**: Practicing array manipulation, two-pointer techniques, and searching algorithms
+- 🔹 **C++ OOP & File Handling**: Classes, inheritance, polymorphism, operator overloading, and file I/O streams
+- 🔹 **Web Development**: CSS Flag designs, styled page layouts, JavaScript form validation & calculations
+
+---
+
 ### 📊 GitHub Overview
 
 <div align="center">
@@ -77,30 +86,37 @@
 ### 📌 Featured Repositories
 
 #### 01. 🚀 [cpp-practice](https://github.com/sahubhavna012-code/cpp-practice)
-> *C++ & OOP learning repository tracking fundamental control flow, pointer mechanics, class design, polymorphism, and stack data structures.*  
-> `C++` `OOP` `Pointers` `Polymorphism` `Stack`  
+> *90+ C++ programs covering basics, control flow, loops, pointers, OOP (classes, constructors, destructors, polymorphism, friend functions, operator overloading), file handling (ifstream/ofstream, random access), and stack data structures.*  
+> `C++` `OOP` `File-Handling` `Pointers` `Polymorphism` `Stack`  
 👉 **[View Repository →](https://github.com/sahubhavna012-code/cpp-practice)**
 
 <br/>
 
 #### 02. 🌐 [Web-application-and-development](https://github.com/sahubhavna012-code/Web-application-and-development)
-> *Web development repository containing HTML5 semantic document layouts, CSS3 styling (Box Model, stylesheets, website templates), and JavaScript logic.*  
+> *Web development practice with HTML5 semantic layouts, CSS3 styling (Box Model, external stylesheets, CSS flag designs), and JavaScript logic (login forms, age verification, salary calculators).*  
 > `HTML5` `CSS3` `JavaScript` `Web-Development` `Frontend`  
 👉 **[View Repository →](https://github.com/sahubhavna012-code/Web-application-and-development)**
 
 <br/>
 
 #### 03. 🛠️ [C-program](https://github.com/sahubhavna012-code/C-program)
-> *C programming repository covering foundational decision logic, number theory algorithms, 2D matrix arithmetic, and stack data structures.*  
+> *45 structured C programs covering fundamentals, control flow, mathematical logic, arrays, 2D matrix arithmetic (addition, multiplication, transpose, diagonals), and stack operations.*  
 > `C` `Matrix-Math` `Algorithms` `Logic-Building` `Stack`  
 👉 **[View Repository →](https://github.com/sahubhavna012-code/C-program)**
 
 <br/>
 
 #### 04. 🧠 [DSA-Questions](https://github.com/sahubhavna012-code/DSA-Questions)
-> *Active problem-solving repository tracking LeetCode solutions in C and C++, focusing on arrays, two-pointer methods, and mathematical logic.*  
-> `LeetCode` `C` `C++` `DSA` `Problem-Solving`  
+> *6 LeetCode solutions in C/C++ with detailed analysis — problem statements, patterns used (Two Pointers, Brute Force), time & space complexity breakdowns.*  
+> `LeetCode` `C` `C++` `DSA` `Two-Pointers`  
 👉 **[View Repository →](https://github.com/sahubhavna012-code/DSA-Questions)**
+
+<br/>
+
+#### 05. 📚 [Erp-Classes](https://github.com/sahubhavna012-code/Erp-Classes)
+> *Data Structures lab coursework — Array operations (insertion, deletion, searching), Stack implementations (palindrome checker, expression validator), Queue, Binary Tree traversals, and Linked Lists in C/C++.*  
+> `C` `C++` `Stack` `Queue` `Binary-Tree` `Linked-List`  
+👉 **[View Repository →](https://github.com/sahubhavna012-code/Erp-Classes)**
 
 ---
 
